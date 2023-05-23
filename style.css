@@ -1,3 +1,8 @@
+head{
+    bacground: center url(icon.jpg);
+    
+}
+
 body{
     background-color:(200,100,150,0.5) ;
     background: center url(bgd.jgp);
