@@ -1,6 +1,9 @@
+head{
+    background: center url(icon.jpg);
+}
 
 body{
-    background-color:(20,10,25,0.5) ;
+    background-color:(200,100,150,0.5) ;
     background: center url(bgd.jgp);
    background-size: cover;
 }
@@ -8,25 +11,35 @@ body{
 
 h1 {
     color: powderblue;
-    font-size: 50px;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h2{
     color: palevioletred;
-    font-size: 30px;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 h3{
     color: rosybrown;
-    font-size: 20px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h4{
     color: whitesmoke;
     font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h5{
     color:whitesmoke;
-    font-size: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h6{
+    color:whitesmoke;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
 }
