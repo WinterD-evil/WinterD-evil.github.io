@@ -1,3 +1,7 @@
+body{
+    background-color:(100,100,100,0.3);
+    background-image: center url(bgd.jgp);
+}
 
 h1 {
     color: powderblue;
