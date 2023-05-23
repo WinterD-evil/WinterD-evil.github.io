@@ -1,7 +1,6 @@
 body{
-    background-color:(20,10,15);
+    background-color:(100,100,100,0.3);
     background-image: center url(bgd.jgp);
-   background-size: cover;
 }
 
 
